@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/2875aa31-e4e9-4788-a069-1f99220d8748)   робота цього проекту
+Щоб почати роботу з проектом треба встановити усі файли та закинути в одну папку
 
-
-
-
-
+ось приклад роботи
+![image](https://github.com/user-attachments/assets/79428b47-5dda-4836-8c8e-5c510e2036b2)
